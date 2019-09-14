@@ -9,7 +9,7 @@ body {
 }
 
 #container {
-    width: 60%;
+    width: 70%;
     padding: 0;
     text-align: left;
     border: 1px solid #DDD;
@@ -43,4 +43,13 @@ body {
 #post {
     background: white;
     padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
+    margin: 0;
+    margin-top: 0;
 }
