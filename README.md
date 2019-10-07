@@ -5,7 +5,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 ## En este curso vemos de todo: 
 * Todos los comandos de Git
-* El fluji de trabajo en GitHub
+* El flujo de trabajo en GitHub
 * El verdadero amor del profesor
 * Las personalidades multiples de Freddy
 
